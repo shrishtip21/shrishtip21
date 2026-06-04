@@ -15,4 +15,4 @@ I am a passionate learner currently exploring the world of **Google Cloud and Ge
 
 ## 🤝 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/shrishti-pandey-61260b332)
-- [Email](shrishtip34@gmail.com)
+- [Email](mailto:shrishtip34@gmail.com)
