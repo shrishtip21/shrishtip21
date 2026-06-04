@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Shrishti! 👋
 
-<!--
-**shrishtip21/shrishtip21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a passionate learner currently exploring the world of **Google Cloud and Generative AI**. I love building projects and learning new tech stacks.
 
-Here are some ideas to get you started:
+## 🧠 Current Focus
+- 🔭 **Learning:** Generative AI concepts, LLMs, and Cloud Architecture through the GenAI Academy APAC.
+- ⚡ **Skills:** Python, Cloud Computing basics, Git/GitHub,AI
+- 🌱 **Goal:** To build impactful AI-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+- **Languages:** Python, SQL
+- **Cloud/AI:** Google Cloud Platform (GCP), Generative AI Studio
+- **Tools:** Git, VS Code
+
+## 🤝 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/shrishti-pandey-61260b332)
+- [Email](shrishtip34@gmail.com)
