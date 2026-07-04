@@ -1,7 +1,7 @@
 # Hi there, I'm Shrishti! 👋
 
 ## 🚀 About Me
-I am a passionate learner currently exploring the world of **Google Cloud and Generative AI**. I love building projects and learning new tech stacks.
+I am a passionate learner currently exploring the world of **AI/ML and Generative AI**. I love building projects and learning new tech stacks.
 
 ## 🧠 Current Focus
 - 🔭 **Learning:** Generative AI concepts, LLMs, and Cloud Architecture through the GenAI Academy APAC.
