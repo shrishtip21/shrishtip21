@@ -14,11 +14,13 @@ I enjoy learning by building projects, experimenting with new technologies, and 
 - Python
 - Java
 - SQL
+  
 **Core Skills**
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Problem Solving
 - AI & Generative AI Fundamentals
+  
 **Tools**
 - Git
 - GitHub
